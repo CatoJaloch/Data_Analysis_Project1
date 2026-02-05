@@ -1,0 +1,6534 @@
+[
+  {
+    "image_id": 1321441,
+    "field_id": 44,
+    "image": {
+      "id": 1321441,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:15",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0005_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5370945,
+      "image_altitude": 2511.18,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0005_2.jpg",
+      "location": {
+        "lat": 0.109527833333333,
+        "long": 37.37887272222222
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 260,
+        "density": 61.09
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 83,
+        "density": 19.5
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 21,
+        "density": 4.93
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 26,
+        "density": 6.11
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321436,
+    "field_id": 44,
+    "image": {
+      "id": 1321436,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:37",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0953_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5457732,
+      "image_altitude": 2509.96,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0953_1.jpg",
+      "location": {
+        "lat": 0.109591472222222,
+        "long": 37.37946736111111
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 112,
+        "density": 26.32
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 54,
+        "density": 12.69
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 23,
+        "density": 5.4
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 59,
+        "density": 13.86
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 7,
+        "density": 1.64
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321467,
+    "field_id": 44,
+    "image": {
+      "id": 1321467,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:02:40",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0941_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5424580,
+      "image_altitude": 2510.06,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0941_1.jpg",
+      "location": {
+        "lat": 0.109652111111111,
+        "long": 37.37967663888889
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 196,
+        "density": 46.05
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 67,
+        "density": 15.74
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 19,
+        "density": 4.46
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 5,
+        "density": 1.17
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321478,
+    "field_id": 44,
+    "image": {
+      "id": 1321478,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:10",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0957_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5449673,
+      "image_altitude": 2509.96,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0957_1.jpg",
+      "location": {
+        "lat": 0.109709972222222,
+        "long": 37.379376638888886
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 181,
+        "density": 42.53
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 70,
+        "density": 16.45
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 29,
+        "density": 6.81
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 50,
+        "density": 11.75
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321432,
+    "field_id": 44,
+    "image": {
+      "id": 1321432,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:58",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0969_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5478562,
+      "image_altitude": 2512.96,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0969_1.jpg",
+      "location": {
+        "lat": 0.109176416666667,
+        "long": 37.37933711111111
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 142,
+        "density": 33.36
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 94,
+        "density": 22.09
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 37,
+        "density": 8.69
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 25,
+        "density": 5.87
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 4,
+        "density": 0.94
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321426,
+    "field_id": 44,
+    "image": {
+      "id": 1321426,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:10:08",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0025_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5507748,
+      "image_altitude": 2511.78,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0025_2.jpg",
+      "location": {
+        "lat": 0.109353666666667,
+        "long": 37.37923980555556
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 183,
+        "density": 43
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 148,
+        "density": 34.77
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 24,
+        "density": 5.64
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 20,
+        "density": 4.7
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321446,
+    "field_id": 44,
+    "image": {
+      "id": 1321446,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:09",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0970_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5343083,
+      "image_altitude": 2513.06,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0970_1.jpg",
+      "location": {
+        "lat": 0.109165138888889,
+        "long": 37.37943441666667
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 124,
+        "density": 29.14
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 72,
+        "density": 16.92
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 33,
+        "density": 7.75
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 38,
+        "density": 8.93
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321476,
+    "field_id": 44,
+    "image": {
+      "id": 1321476,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:02",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0944_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5464390,
+      "image_altitude": 2509.86,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0944_1.jpg",
+      "location": {
+        "lat": 0.109647555555556,
+        "long": 37.37957627777778
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 112,
+        "density": 26.32
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 66,
+        "density": 15.51
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 25,
+        "density": 5.87
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 44,
+        "density": 10.34
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321477,
+    "field_id": 44,
+    "image": {
+      "id": 1321477,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:08",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0004_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5389801,
+      "image_altitude": 2511.28,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0004_2.jpg",
+      "location": {
+        "lat": 0.109519888888889,
+        "long": 37.37896219444445
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 256,
+        "density": 60.15
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 80,
+        "density": 18.8
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 23,
+        "density": 5.4
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 20,
+        "density": 4.7
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321416,
+    "field_id": 44,
+    "image": {
+      "id": 1321416,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:54",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0022_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5449129,
+      "image_altitude": 2512.39,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0022_2.jpg",
+      "location": {
+        "lat": 0.109299027777778,
+        "long": 37.37913075
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 220,
+        "density": 51.69
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 85,
+        "density": 19.97
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 19,
+        "density": 4.46
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 25,
+        "density": 5.87
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321405,
+    "field_id": 44,
+    "image": {
+      "id": 1321405,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:10:01",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0024_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5333947,
+      "image_altitude": 2511.89,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0024_2.jpg",
+      "location": {
+        "lat": 0.109365138888889,
+        "long": 37.37913566666667
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 197,
+        "density": 46.29
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 130,
+        "density": 30.55
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 32,
+        "density": 7.52
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 21,
+        "density": 4.93
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321471,
+    "field_id": 44,
+    "image": {
+      "id": 1321471,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:14",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0991_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5404566,
+      "image_altitude": 2510.49,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0991_1.jpg",
+      "location": {
+        "lat": 0.109601916666667,
+        "long": 37.37927466666667
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 160,
+        "density": 37.59
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 147,
+        "density": 34.54
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 51,
+        "density": 11.98
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 59,
+        "density": 13.86
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 4,
+        "density": 0.94
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321495,
+    "field_id": 44,
+    "image": {
+      "id": 1321495,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:01",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0002_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5353075,
+      "image_altitude": 2510.99,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0002_2.jpg",
+      "location": {
+        "lat": 0.109588305555556,
+        "long": 37.37896766666667
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 220,
+        "density": 51.69
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 116,
+        "density": 27.26
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 24,
+        "density": 5.64
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 29,
+        "density": 6.81
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321409,
+    "field_id": 44,
+    "image": {
+      "id": 1321409,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:50",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0021_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5508235,
+      "image_altitude": 2512.59,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0021_2.jpg",
+      "location": {
+        "lat": 0.109248111111111,
+        "long": 37.37912605555555
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 189,
+        "density": 44.41
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 50,
+        "density": 11.75
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 21,
+        "density": 4.93
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 24,
+        "density": 5.64
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321440,
+    "field_id": 44,
+    "image": {
+      "id": 1321440,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:21",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0961_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5388146,
+      "image_altitude": 2510.46,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0961_1.jpg",
+      "location": {
+        "lat": 0.109571305555556,
+        "long": 37.37936672222222
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 96,
+        "density": 22.56
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 84,
+        "density": 19.74
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 50,
+        "density": 11.75
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 91,
+        "density": 21.38
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321494,
+    "field_id": 44,
+    "image": {
+      "id": 1321494,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:20",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0016_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5346432,
+      "image_altitude": 2511.99,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0016_2.jpg",
+      "location": {
+        "lat": 0.109377472222222,
+        "long": 37.378936833333334
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 270,
+        "density": 63.44
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 71,
+        "density": 16.68
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 17,
+        "density": 3.99
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 9,
+        "density": 2.11
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321490,
+    "field_id": 44,
+    "image": {
+      "id": 1321490,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:19",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0960_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5361459,
+      "image_altitude": 2510.16,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0960_1.jpg",
+      "location": {
+        "lat": 0.109590666666667,
+        "long": 37.37936630555556
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 127,
+        "density": 29.84
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 88,
+        "density": 20.68
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 43,
+        "density": 10.1
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 77,
+        "density": 18.09
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 4,
+        "density": 0.94
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321406,
+    "field_id": 44,
+    "image": {
+      "id": 1321406,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:40",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0978_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5433958,
+      "image_altitude": 2512.16,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0978_1.jpg",
+      "location": {
+        "lat": 0.109268166666667,
+        "long": 37.37954202777778
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 126,
+        "density": 29.61
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 58,
+        "density": 13.63
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 24,
+        "density": 5.64
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 52,
+        "density": 12.22
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 5,
+        "density": 1.17
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321459,
+    "field_id": 44,
+    "image": {
+      "id": 1321459,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:04",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0003_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5430178,
+      "image_altitude": 2511.39,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0003_2.jpg",
+      "location": {
+        "lat": 0.10955725,
+        "long": 37.378965
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 215,
+        "density": 50.52
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 108,
+        "density": 25.38
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 31,
+        "density": 7.28
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 36,
+        "density": 8.46
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321428,
+    "field_id": 44,
+    "image": {
+      "id": 1321428,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:45",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0998_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5445888,
+      "image_altitude": 2510.89,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0998_1.jpg",
+      "location": {
+        "lat": 0.109579027777778,
+        "long": 37.37907058333333
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 220,
+        "density": 51.69
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 117,
+        "density": 27.49
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 17,
+        "density": 3.99
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 30,
+        "density": 7.05
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321475,
+    "field_id": 44,
+    "image": {
+      "id": 1321475,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:06:07",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0984_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5491470,
+      "image_altitude": 2512.66,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0984_1.jpg",
+      "location": {
+        "lat": 0.109228555555556,
+        "long": 37.37963713888889
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 135,
+        "density": 31.72
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 65,
+        "density": 15.27
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 20,
+        "density": 4.7
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 40,
+        "density": 9.4
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321452,
+    "field_id": 44,
+    "image": {
+      "id": 1321452,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:51",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0967_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5459285,
+      "image_altitude": 2512.66,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0967_1.jpg",
+      "location": {
+        "lat": 0.109242472222222,
+        "long": 37.3793405
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 107,
+        "density": 25.14
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 134,
+        "density": 31.48
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 53,
+        "density": 12.45
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 78,
+        "density": 18.33
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321442,
+    "field_id": 44,
+    "image": {
+      "id": 1321442,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:25",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0008_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5545569,
+      "image_altitude": 2510.68,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0008_2.jpg",
+      "location": {
+        "lat": 0.109636888888889,
+        "long": 37.378884138888886
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 173,
+        "density": 40.65
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 137,
+        "density": 32.19
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 39,
+        "density": 9.16
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 26,
+        "density": 6.11
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321484,
+    "field_id": 44,
+    "image": {
+      "id": 1321484,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:42",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0009_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5508576,
+      "image_altitude": 2511.78,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0009_2.jpg",
+      "location": {
+        "lat": 0.109386694444444,
+        "long": 37.378851527777776
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 281,
+        "density": 66.02
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 51,
+        "density": 11.98
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 17,
+        "density": 3.99
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 30,
+        "density": 7.05
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 7,
+        "density": 1.64
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321473,
+    "field_id": 44,
+    "image": {
+      "id": 1321473,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:12",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0971_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5328939,
+      "image_altitude": 2513.06,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0971_1.jpg",
+      "location": {
+        "lat": 0.109203833333333,
+        "long": 37.37943497222222
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 147,
+        "density": 34.54
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 90,
+        "density": 21.15
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 35,
+        "density": 8.22
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 55,
+        "density": 12.92
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 4,
+        "density": 0.94
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321462,
+    "field_id": 44,
+    "image": {
+      "id": 1321462,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:44",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0979_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5455072,
+      "image_altitude": 2512.46,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0979_1.jpg",
+      "location": {
+        "lat": 0.109229111111111,
+        "long": 37.379538305555556
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 129,
+        "density": 30.31
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 64,
+        "density": 15.04
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 35,
+        "density": 8.22
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 42,
+        "density": 9.87
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 5,
+        "density": 1.17
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321407,
+    "field_id": 44,
+    "image": {
+      "id": 1321407,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:57",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0001_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5428210,
+      "image_altitude": 2510.89,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0001_2.jpg",
+      "location": {
+        "lat": 0.109633305555556,
+        "long": 37.37897272222222
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 216,
+        "density": 50.75
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 108,
+        "density": 25.38
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 33,
+        "density": 7.75
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 32,
+        "density": 7.52
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321408,
+    "field_id": 44,
+    "image": {
+      "id": 1321408,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:02:57",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0943_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5484374,
+      "image_altitude": 2509.66,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0943_1.jpg",
+      "location": {
+        "lat": 0.10969525,
+        "long": 37.37957925
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 159,
+        "density": 37.36
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 58,
+        "density": 13.63
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 31,
+        "density": 7.28
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 50,
+        "density": 11.75
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321438,
+    "field_id": 44,
+    "image": {
+      "id": 1321438,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:37",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0996_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5396033,
+      "image_altitude": 2511.09,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0996_1.jpg",
+      "location": {
+        "lat": 0.10950825,
+        "long": 37.379063555555554
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 206,
+        "density": 48.4
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 72,
+        "density": 16.92
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 18,
+        "density": 4.23
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 18,
+        "density": 4.23
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321470,
+    "field_id": 44,
+    "image": {
+      "id": 1321470,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:02:33",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0939_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5541744,
+      "image_altitude": 2510.46,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0939_1.jpg",
+      "location": {
+        "lat": 0.109582472222222,
+        "long": 37.379671555555554
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 122,
+        "density": 28.67
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 52,
+        "density": 12.22
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 23,
+        "density": 5.4
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 42,
+        "density": 9.87
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321413,
+    "field_id": 44,
+    "image": {
+      "id": 1321413,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:25",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0975_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5408492,
+      "image_altitude": 2511.96,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0975_1.jpg",
+      "location": {
+        "lat": 0.109340138888889,
+        "long": 37.379446
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 132,
+        "density": 31.02
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 59,
+        "density": 13.86
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 27,
+        "density": 6.34
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 55,
+        "density": 12.92
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 6,
+        "density": 1.41
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321455,
+    "field_id": 44,
+    "image": {
+      "id": 1321455,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:06:14",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0986_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5358762,
+      "image_altitude": 2512.56,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0986_1.jpg",
+      "location": {
+        "lat": 0.109296111111111,
+        "long": 37.37964566666667
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 187,
+        "density": 43.94
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 45,
+        "density": 10.57
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 12,
+        "density": 2.82
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 33,
+        "density": 7.75
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321487,
+    "field_id": 44,
+    "image": {
+      "id": 1321487,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:16",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0959_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5483724,
+      "image_altitude": 2509.96,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0959_1.jpg",
+      "location": {
+        "lat": 0.109640333333333,
+        "long": 37.37937269444444
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 143,
+        "density": 33.6
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 56,
+        "density": 13.16
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 41,
+        "density": 9.63
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 61,
+        "density": 14.33
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321404,
+    "field_id": 44,
+    "image": {
+      "id": 1321404,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:02:21",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0936_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5506195,
+      "image_altitude": 2511.66,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0936_1.jpg",
+      "location": {
+        "lat": 0.109472555555556,
+        "long": 37.379669388888885
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 130,
+        "density": 30.55
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 72,
+        "density": 16.92
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 31,
+        "density": 7.28
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 53,
+        "density": 12.45
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321449,
+    "field_id": 44,
+    "image": {
+      "id": 1321449,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:42",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0997_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5428238,
+      "image_altitude": 2510.89,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0997_1.jpg",
+      "location": {
+        "lat": 0.109547138888889,
+        "long": 37.37906680555555
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 226,
+        "density": 53.1
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 78,
+        "density": 18.33
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 15,
+        "density": 3.52
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 11,
+        "density": 2.58
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321451,
+    "field_id": 44,
+    "image": {
+      "id": 1321451,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:18",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0973_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5402920,
+      "image_altitude": 2512.56,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0973_1.jpg",
+      "location": {
+        "lat": 0.109271472222222,
+        "long": 37.37943938888889
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 136,
+        "density": 31.95
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 81,
+        "density": 19.03
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 48,
+        "density": 11.28
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 67,
+        "density": 15.74
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321410,
+    "field_id": 44,
+    "image": {
+      "id": 1321410,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:10",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0990_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5460570,
+      "image_altitude": 2510.59,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0990_1.jpg",
+      "location": {
+        "lat": 0.10955975,
+        "long": 37.379271333333335
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 195,
+        "density": 45.82
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 97,
+        "density": 22.79
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 34,
+        "density": 7.99
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 36,
+        "density": 8.46
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321450,
+    "field_id": 44,
+    "image": {
+      "id": 1321450,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:06",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0945_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5349298,
+      "image_altitude": 2509.96,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0945_1.jpg",
+      "location": {
+        "lat": 0.109615444444444,
+        "long": 37.37957055555555
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 86,
+        "density": 20.21
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 116,
+        "density": 27.26
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 39,
+        "density": 9.16
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 44,
+        "density": 10.34
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321469,
+    "field_id": 44,
+    "image": {
+      "id": 1321469,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:41",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0954_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5464634,
+      "image_altitude": 2509.76,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0954_1.jpg",
+      "location": {
+        "lat": 0.109630833333333,
+        "long": 37.37947361111111
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 126,
+        "density": 29.61
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 47,
+        "density": 11.04
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 36,
+        "density": 8.46
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 65,
+        "density": 15.27
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 11,
+        "density": 2.58
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321417,
+    "field_id": 44,
+    "image": {
+      "id": 1321417,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:13",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0958_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5387872,
+      "image_altitude": 2509.86,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0958_1.jpg",
+      "location": {
+        "lat": 0.109671333333333,
+        "long": 37.37937436111111
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 147,
+        "density": 34.54
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 61,
+        "density": 14.33
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 48,
+        "density": 11.28
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 46,
+        "density": 10.81
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321427,
+    "field_id": 44,
+    "image": {
+      "id": 1321427,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:22",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0974_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5482493,
+      "image_altitude": 2512.16,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0974_1.jpg",
+      "location": {
+        "lat": 0.109316888888889,
+        "long": 37.37944458333333
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 123,
+        "density": 28.9
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 58,
+        "density": 13.63
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 26,
+        "density": 6.11
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 47,
+        "density": 11.04
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321479,
+    "field_id": 44,
+    "image": {
+      "id": 1321479,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:44",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0955_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5418362,
+      "image_altitude": 2509.56,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0955_1.jpg",
+      "location": {
+        "lat": 0.109667222222222,
+        "long": 37.379474916666666
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 94,
+        "density": 22.09
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 74,
+        "density": 17.39
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 46,
+        "density": 10.81
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 88,
+        "density": 20.68
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 9,
+        "density": 2.11
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321412,
+    "field_id": 44,
+    "image": {
+      "id": 1321412,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:10:17",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0028_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5398923,
+      "image_altitude": 2512.09,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0028_2.jpg",
+      "location": {
+        "lat": 0.109246916666667,
+        "long": 37.37923213888889
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 227,
+        "density": 53.34
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 77,
+        "density": 18.09
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 10,
+        "density": 2.35
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 18,
+        "density": 4.23
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321419,
+    "field_id": 44,
+    "image": {
+      "id": 1321419,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:02:29",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0938_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5444918,
+      "image_altitude": 2510.56,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0938_1.jpg",
+      "location": {
+        "lat": 0.109547527777778,
+        "long": 37.379669194444446
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 101,
+        "density": 23.73
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 63,
+        "density": 14.8
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 22,
+        "density": 5.17
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 43,
+        "density": 10.1
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321460,
+    "field_id": 44,
+    "image": {
+      "id": 1321460,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:07",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0989_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5437981,
+      "image_altitude": 2510.99,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0989_1.jpg",
+      "location": {
+        "lat": 0.109529,
+        "long": 37.379267666666664
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 243,
+        "density": 57.1
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 68,
+        "density": 15.98
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 23,
+        "density": 5.4
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 30,
+        "density": 7.05
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321425,
+    "field_id": 44,
+    "image": {
+      "id": 1321425,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:28",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0994_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5356271,
+      "image_altitude": 2511.09,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0994_1.jpg",
+      "location": {
+        "lat": 0.109533222222222,
+        "long": 37.379167305555555
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 188,
+        "density": 44.17
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 153,
+        "density": 35.95
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 36,
+        "density": 8.46
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 15,
+        "density": 3.52
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321482,
+    "field_id": 44,
+    "image": {
+      "id": 1321482,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:47",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0980_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5365066,
+      "image_altitude": 2512.56,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0980_1.jpg",
+      "location": {
+        "lat": 0.109189472222222,
+        "long": 37.37953655555555
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 125,
+        "density": 29.37
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 78,
+        "density": 18.33
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 29,
+        "density": 6.81
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 34,
+        "density": 7.99
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321458,
+    "field_id": 44,
+    "image": {
+      "id": 1321458,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:22",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0992_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5351012,
+      "image_altitude": 2510.68,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0992_1.jpg",
+      "location": {
+        "lat": 0.109608444444444,
+        "long": 37.37917425
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 195,
+        "density": 45.82
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 203,
+        "density": 47.7
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 52,
+        "density": 12.22
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 40,
+        "density": 9.4
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321447,
+    "field_id": 44,
+    "image": {
+      "id": 1321447,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:13",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0947_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5353524,
+      "image_altitude": 2510.66,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0947_1.jpg",
+      "location": {
+        "lat": 0.1095505,
+        "long": 37.37956555555556
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 103,
+        "density": 24.2
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 115,
+        "density": 27.02
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 34,
+        "density": 7.99
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 54,
+        "density": 12.69
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321489,
+    "field_id": 44,
+    "image": {
+      "id": 1321489,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:49",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0999_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5409366,
+      "image_altitude": 2510.78,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0999_1.jpg",
+      "location": {
+        "lat": 0.109614111111111,
+        "long": 37.37907247222222
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 206,
+        "density": 48.4
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 155,
+        "density": 36.42
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 33,
+        "density": 7.75
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 32,
+        "density": 7.52
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321492,
+    "field_id": 44,
+    "image": {
+      "id": 1321492,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:41",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0020_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5469824,
+      "image_altitude": 2512.68,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0020_2.jpg",
+      "location": {
+        "lat": 0.109261638888889,
+        "long": 37.37902527777778
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 168,
+        "density": 39.47
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 66,
+        "density": 15.51
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 33,
+        "density": 7.75
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 38,
+        "density": 8.93
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321474,
+    "field_id": 44,
+    "image": {
+      "id": 1321474,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:22",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0007_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5358163,
+      "image_altitude": 2510.89,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0007_2.jpg",
+      "location": {
+        "lat": 0.109609194444444,
+        "long": 37.378880333333335
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 254,
+        "density": 59.68
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 120,
+        "density": 28.2
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 20,
+        "density": 4.7
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 17,
+        "density": 3.99
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321468,
+    "field_id": 44,
+    "image": {
+      "id": 1321468,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:06:16",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0987_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5308506,
+      "image_altitude": 2512.46,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0987_1.jpg",
+      "location": {
+        "lat": 0.109326388888889,
+        "long": 37.37964616666667
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 159,
+        "density": 37.36
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 47,
+        "density": 11.04
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 26,
+        "density": 6.11
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 35,
+        "density": 8.22
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321433,
+    "field_id": 44,
+    "image": {
+      "id": 1321433,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:06:10",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0985_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5285091,
+      "image_altitude": 2512.26,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0985_1.jpg",
+      "location": {
+        "lat": 0.109261388888889,
+        "long": 37.37963941666667
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 131,
+        "density": 30.78
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 37,
+        "density": 8.69
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 21,
+        "density": 4.93
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 25,
+        "density": 5.87
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321485,
+    "field_id": 44,
+    "image": {
+      "id": 1321485,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:03",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0988_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5507729,
+      "image_altitude": 2511.59,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0988_1.jpg",
+      "location": {
+        "lat": 0.109485305555556,
+        "long": 37.37926508333334
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 250,
+        "density": 58.74
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 83,
+        "density": 19.5
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 22,
+        "density": 5.17
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 25,
+        "density": 5.87
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321420,
+    "field_id": 44,
+    "image": {
+      "id": 1321420,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:44",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0965_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5447286,
+      "image_altitude": 2512.06,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0965_1.jpg",
+      "location": {
+        "lat": 0.109318777777778,
+        "long": 37.37934788888889
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 115,
+        "density": 27.02
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 111,
+        "density": 26.08
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 45,
+        "density": 10.57
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 83,
+        "density": 19.5
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 7,
+        "density": 1.64
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321453,
+    "field_id": 44,
+    "image": {
+      "id": 1321453,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:55",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0012_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5523568,
+      "image_altitude": 2512.49,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0012_2.jpg",
+      "location": {
+        "lat": 0.1092775,
+        "long": 37.37883927777778
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 255,
+        "density": 59.92
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 54,
+        "density": 12.69
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 16,
+        "density": 3.76
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 15,
+        "density": 3.52
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321463,
+    "field_id": 44,
+    "image": {
+      "id": 1321463,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:36",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0977_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5283063,
+      "image_altitude": 2512.16,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0977_1.jpg",
+      "location": {
+        "lat": 0.109302361111111,
+        "long": 37.37954488888889
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 119,
+        "density": 27.96
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 43,
+        "density": 10.1
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 30,
+        "density": 7.05
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 48,
+        "density": 11.28
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 6,
+        "density": 1.41
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321472,
+    "field_id": 44,
+    "image": {
+      "id": 1321472,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:15",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0972_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5387940,
+      "image_altitude": 2512.96,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0972_1.jpg",
+      "location": {
+        "lat": 0.109235694444444,
+        "long": 37.37943769444445
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 166,
+        "density": 39
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 86,
+        "density": 20.21
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 43,
+        "density": 10.1
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 70,
+        "density": 16.45
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321448,
+    "field_id": 44,
+    "image": {
+      "id": 1321448,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:06:04",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0983_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5418371,
+      "image_altitude": 2512.76,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0983_1.jpg",
+      "location": {
+        "lat": 0.109191333333333,
+        "long": 37.37963325
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 92,
+        "density": 21.62
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 72,
+        "density": 16.92
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 21,
+        "density": 4.93
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 39,
+        "density": 9.16
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321483,
+    "field_id": 44,
+    "image": {
+      "id": 1321483,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:16",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0948_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5351437,
+      "image_altitude": 2510.96,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0948_1.jpg",
+      "location": {
+        "lat": 0.109509916666667,
+        "long": 37.379561027777775
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 109,
+        "density": 25.61
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 85,
+        "density": 19.97
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 37,
+        "density": 8.69
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 63,
+        "density": 14.8
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321431,
+    "field_id": 44,
+    "image": {
+      "id": 1321431,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:34",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0952_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5435299,
+      "image_altitude": 2510.26,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0952_1.jpg",
+      "location": {
+        "lat": 0.109557833333333,
+        "long": 37.37946655555555
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 94,
+        "density": 22.09
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 61,
+        "density": 14.33
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 48,
+        "density": 11.28
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 91,
+        "density": 21.38
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 6,
+        "density": 1.41
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321439,
+    "field_id": 44,
+    "image": {
+      "id": 1321439,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:02:36",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0940_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5522180,
+      "image_altitude": 2510.46,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0940_1.jpg",
+      "location": {
+        "lat": 0.109615555555556,
+        "long": 37.379676
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 169,
+        "density": 39.71
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 52,
+        "density": 12.22
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 27,
+        "density": 6.34
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 32,
+        "density": 7.52
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321422,
+    "field_id": 44,
+    "image": {
+      "id": 1321422,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:41",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0964_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5306335,
+      "image_altitude": 2512.16,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0964_1.jpg",
+      "location": {
+        "lat": 0.109354861111111,
+        "long": 37.37934966666667
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 132,
+        "density": 31.02
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 123,
+        "density": 28.9
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 34,
+        "density": 7.99
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 97,
+        "density": 22.79
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 4,
+        "density": 0.94
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321415,
+    "field_id": 44,
+    "image": {
+      "id": 1321415,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:30",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0951_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5506534,
+      "image_altitude": 2510.56,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0951_1.jpg",
+      "location": {
+        "lat": 0.109525833333333,
+        "long": 37.37946261111111
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 127,
+        "density": 29.84
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 56,
+        "density": 13.16
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 43,
+        "density": 10.1
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 98,
+        "density": 23.03
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 7,
+        "density": 1.64
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321486,
+    "field_id": 44,
+    "image": {
+      "id": 1321486,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:46",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0010_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5448982,
+      "image_altitude": 2511.78,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0010_2.jpg",
+      "location": {
+        "lat": 0.109351777777778,
+        "long": 37.37884616666667
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 231,
+        "density": 54.28
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 49,
+        "density": 11.51
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 22,
+        "density": 5.17
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 32,
+        "density": 7.52
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321444,
+    "field_id": 44,
+    "image": {
+      "id": 1321444,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:07",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0013_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5421406,
+      "image_altitude": 2512.78,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0013_2.jpg",
+      "location": {
+        "lat": 0.109276527777778,
+        "long": 37.378926
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 176,
+        "density": 41.35
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 55,
+        "density": 12.92
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 29,
+        "density": 6.81
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 40,
+        "density": 9.4
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 4,
+        "density": 0.94
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321457,
+    "field_id": 44,
+    "image": {
+      "id": 1321457,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:02:44",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0942_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5393162,
+      "image_altitude": 2510.16,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0942_1.jpg",
+      "location": {
+        "lat": 0.109683972222222,
+        "long": 37.37967722222222
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 204,
+        "density": 47.93
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 69,
+        "density": 16.21
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 21,
+        "density": 4.93
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 21,
+        "density": 4.93
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321464,
+    "field_id": 44,
+    "image": {
+      "id": 1321464,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:13",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0014_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5465121,
+      "image_altitude": 2512.39,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0014_2.jpg",
+      "location": {
+        "lat": 0.109311555555556,
+        "long": 37.37893063888889
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 218,
+        "density": 51.22
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 31,
+        "density": 7.28
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 18,
+        "density": 4.23
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 23,
+        "density": 5.4
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321461,
+    "field_id": 44,
+    "image": {
+      "id": 1321461,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:25",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0993_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5540341,
+      "image_altitude": 2510.68,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0993_1.jpg",
+      "location": {
+        "lat": 0.109571111111111,
+        "long": 37.37917072222222
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 194,
+        "density": 45.58
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 175,
+        "density": 41.12
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 51,
+        "density": 11.98
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 26,
+        "density": 6.11
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321424,
+    "field_id": 44,
+    "image": {
+      "id": 1321424,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:37",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0019_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5501657,
+      "image_altitude": 2512.39,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0019_2.jpg",
+      "location": {
+        "lat": 0.109299972222222,
+        "long": 37.37903105555556
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 207,
+        "density": 48.64
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 71,
+        "density": 16.68
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 34,
+        "density": 7.99
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 28,
+        "density": 6.58
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321429,
+    "field_id": 44,
+    "image": {
+      "id": 1321429,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:07:31",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0995_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5372776,
+      "image_altitude": 2511.18,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0995_1.jpg",
+      "location": {
+        "lat": 0.109496,
+        "long": 37.379164305555555
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 206,
+        "density": 48.4
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 117,
+        "density": 27.49
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 30,
+        "density": 7.05
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 26,
+        "density": 6.11
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321445,
+    "field_id": 44,
+    "image": {
+      "id": 1321445,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:48",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0966_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5453897,
+      "image_altitude": 2512.16,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0966_1.jpg",
+      "location": {
+        "lat": 0.109280944444444,
+        "long": 37.379342305555554
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 111,
+        "density": 26.08
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 98,
+        "density": 23.03
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 58,
+        "density": 13.63
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 91,
+        "density": 21.38
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 5,
+        "density": 1.17
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321443,
+    "field_id": 44,
+    "image": {
+      "id": 1321443,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:18",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0006_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5384147,
+      "image_altitude": 2511.28,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0006_2.jpg",
+      "location": {
+        "lat": 0.109564305555556,
+        "long": 37.37887588888889
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 277,
+        "density": 65.08
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 100,
+        "density": 23.5
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 26,
+        "density": 6.11
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 30,
+        "density": 7.05
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321437,
+    "field_id": 44,
+    "image": {
+      "id": 1321437,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:32",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0976_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5286132,
+      "image_altitude": 2511.66,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0976_1.jpg",
+      "location": {
+        "lat": 0.109334694444444,
+        "long": 37.379544555555555
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 163,
+        "density": 38.3
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 29,
+        "density": 6.81
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 10,
+        "density": 2.35
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 27,
+        "density": 6.34
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321488,
+    "field_id": 44,
+    "image": {
+      "id": 1321488,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:54",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0968_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5494089,
+      "image_altitude": 2512.76,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0968_1.jpg",
+      "location": {
+        "lat": 0.109211666666667,
+        "long": 37.37933980555555
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 126,
+        "density": 29.61
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 131,
+        "density": 30.78
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 42,
+        "density": 9.87
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 46,
+        "density": 10.81
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:34.889925"
+  },
+  {
+    "image_id": 1321454,
+    "field_id": 44,
+    "image": {
+      "id": 1321454,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:10",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0946_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5442901,
+      "image_altitude": 2510.46,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0946_1.jpg",
+      "location": {
+        "lat": 0.109588027777778,
+        "long": 37.37956947222222
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 99,
+        "density": 23.26
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 84,
+        "density": 19.74
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 38,
+        "density": 8.93
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 54,
+        "density": 12.69
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321481,
+    "field_id": 44,
+    "image": {
+      "id": 1321481,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:57",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0023_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5404847,
+      "image_altitude": 2512.09,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0023_2.jpg",
+      "location": {
+        "lat": 0.109326972222222,
+        "long": 37.37913283333334
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 221,
+        "density": 51.93
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 96,
+        "density": 22.56
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 33,
+        "density": 7.75
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 20,
+        "density": 4.7
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321430,
+    "field_id": 44,
+    "image": {
+      "id": 1321430,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:05:51",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0981_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5390424,
+      "image_altitude": 2512.76,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0981_1.jpg",
+      "location": {
+        "lat": 0.109158388888889,
+        "long": 37.37953325
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 131,
+        "density": 30.78
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 81,
+        "density": 19.03
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 35,
+        "density": 8.22
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 25,
+        "density": 5.87
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321480,
+    "field_id": 44,
+    "image": {
+      "id": 1321480,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:10:15",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0027_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5373103,
+      "image_altitude": 2512.09,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0027_2.jpg",
+      "location": {
+        "lat": 0.109281111111111,
+        "long": 37.37923441666667
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 197,
+        "density": 46.29
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 96,
+        "density": 22.56
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 20,
+        "density": 4.7
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 22,
+        "density": 5.17
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321418,
+    "field_id": 44,
+    "image": {
+      "id": 1321418,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:16",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0015_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5398599,
+      "image_altitude": 2512.39,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0015_2.jpg",
+      "location": {
+        "lat": 0.109343972222222,
+        "long": 37.37893511111111
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 218,
+        "density": 51.22
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 59,
+        "density": 13.86
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 14,
+        "density": 3.29
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 15,
+        "density": 3.52
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321456,
+    "field_id": 44,
+    "image": {
+      "id": 1321456,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:26",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0962_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5355683,
+      "image_altitude": 2510.66,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0962_1.jpg",
+      "location": {
+        "lat": 0.109533388888889,
+        "long": 37.37936144444444
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 126,
+        "density": 29.61
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 70,
+        "density": 16.45
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 28,
+        "density": 6.58
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 87,
+        "density": 20.44
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321465,
+    "field_id": 44,
+    "image": {
+      "id": 1321465,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:04:29",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0963_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5358922,
+      "image_altitude": 2511.06,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0963_1.jpg",
+      "location": {
+        "lat": 0.109495166666667,
+        "long": 37.37936169444444
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 114,
+        "density": 26.79
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 82,
+        "density": 19.27
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 40,
+        "density": 9.4
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 74,
+        "density": 17.39
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321493,
+    "field_id": 44,
+    "image": {
+      "id": 1321493,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:06:01",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0982_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5378340,
+      "image_altitude": 2512.86,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0982_1.jpg",
+      "location": {
+        "lat": 0.109149333333333,
+        "long": 37.379629111111115
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 131,
+        "density": 30.78
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 58,
+        "density": 13.63
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 28,
+        "density": 6.58
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 25,
+        "density": 5.87
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 2,
+        "density": 0.47
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321491,
+    "field_id": 44,
+    "image": {
+      "id": 1321491,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:29",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0017_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5378527,
+      "image_altitude": 2512.18,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0017_2.jpg",
+      "location": {
+        "lat": 0.109367611111111,
+        "long": 37.37903605555555
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 234,
+        "density": 54.98
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 101,
+        "density": 23.73
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 22,
+        "density": 5.17
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 21,
+        "density": 4.93
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321435,
+    "field_id": 44,
+    "image": {
+      "id": 1321435,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:20",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0949_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5447044,
+      "image_altitude": 2510.66,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0949_1.jpg",
+      "location": {
+        "lat": 0.109481138888889,
+        "long": 37.37956138888889
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 112,
+        "density": 26.32
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 53,
+        "density": 12.45
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 38,
+        "density": 8.93
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 42,
+        "density": 9.87
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 3,
+        "density": 0.7
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321423,
+    "field_id": 44,
+    "image": {
+      "id": 1321423,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:27",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0950_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5452634,
+      "image_altitude": 2510.96,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0950_1.jpg",
+      "location": {
+        "lat": 0.109487527777778,
+        "long": 37.37946102777778
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 114,
+        "density": 26.79
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 77,
+        "density": 18.09
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 30,
+        "density": 7.05
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 98,
+        "density": 23.03
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 6,
+        "density": 1.41
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321414,
+    "field_id": 44,
+    "image": {
+      "id": 1321414,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:02:26",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0937_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5515856,
+      "image_altitude": 2510.96,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0937_1.jpg",
+      "location": {
+        "lat": 0.109509222222222,
+        "long": 37.37966922222222
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 120,
+        "density": 28.2
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 61,
+        "density": 14.33
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 24,
+        "density": 5.64
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 40,
+        "density": 9.4
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321411,
+    "field_id": 44,
+    "image": {
+      "id": 1321411,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:03:47",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0956_1.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5415058,
+      "image_altitude": 2509.46,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0956_1.jpg",
+      "location": {
+        "lat": 0.109699222222222,
+        "long": 37.37947583333333
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 90,
+        "density": 21.15
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 92,
+        "density": 21.62
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 45,
+        "density": 10.57
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 85,
+        "density": 19.97
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 4,
+        "density": 0.94
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321434,
+    "field_id": 44,
+    "image": {
+      "id": 1321434,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:10:11",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0026_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5425983,
+      "image_altitude": 2511.78,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0026_2.jpg",
+      "location": {
+        "lat": 0.109317138888889,
+        "long": 37.37923611111111
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 186,
+        "density": 43.7
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 113,
+        "density": 26.55
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 23,
+        "density": 5.4
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 21,
+        "density": 4.93
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 0,
+        "density": 0
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321421,
+    "field_id": 44,
+    "image": {
+      "id": 1321421,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:09:34",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0018_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5439322,
+      "image_altitude": 2512.18,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0018_2.jpg",
+      "location": {
+        "lat": 0.109332583333333,
+        "long": 37.379035
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 235,
+        "density": 55.22
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 43,
+        "density": 10.1
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 22,
+        "density": 5.17
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 28,
+        "density": 6.58
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 1,
+        "density": 0.23
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  },
+  {
+    "image_id": 1321466,
+    "field_id": 44,
+    "image": {
+      "id": 1321466,
+      "field_id": null,
+      "capture_date": "2026-01-29T12:08:50",
+      "url": "s3://drone-sorted-images/images/aaa_images/by_Date/004-001/2026-01-29/GH (2)/DJI_0011_2.jpg",
+      "flags": "GH (2)",
+      "status": "",
+      "file_size": 5553687,
+      "image_altitude": 2512.28,
+      "other_info": "",
+      "tags": "",
+      "farm_id": 4,
+      "flight_id": 321,
+      "name": "DJI_0011_2.jpg",
+      "location": {
+        "lat": 0.109314222222222,
+        "long": 37.37884402777778
+      }
+    },
+    "growth_stages": [
+      {
+        "id": 1,
+        "name": "Shoot",
+        "variety_id": 16,
+        "order": 1,
+        "alt_names": "Rose_Shoot",
+        "detections": 270,
+        "density": 63.44
+      },
+      {
+        "id": 2,
+        "name": "Pea",
+        "variety_id": 16,
+        "order": 2,
+        "alt_names": "Rose_Pea",
+        "detections": 62,
+        "density": 14.57
+      },
+      {
+        "id": 3,
+        "name": "Color Break",
+        "variety_id": 16,
+        "order": 3,
+        "alt_names": "Rose_Color_Break",
+        "detections": 23,
+        "density": 5.4
+      },
+      {
+        "id": 4,
+        "name": "Partial Bloom",
+        "variety_id": 16,
+        "order": 4,
+        "alt_names": "Rose_Partial_Bloom",
+        "detections": 22,
+        "density": 5.17
+      },
+      {
+        "id": 5,
+        "name": "Cut",
+        "variety_id": 16,
+        "order": 5,
+        "alt_names": "Rose_Cut_Stage;Rose_Cut",
+        "detections": 4,
+        "density": 0.94
+      }
+    ],
+    "created_at": "2026-01-31T20:43:53.729947"
+  }
+]
