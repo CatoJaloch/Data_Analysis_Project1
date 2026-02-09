@@ -8,4 +8,5 @@ with open("project1.json", "r") as f:
 #convert json to dataframe
 df = pd.json_normalize(data)
 print(df.info())
+print(df.head(10))
 
