@@ -13,3 +13,4 @@ df_stages =pd.json_normalize(df_exploded['growth_stages'])
 for col in df_stages.columns:
     print(col)
 print(df_stages.head())    
+df_stages.to_excel("growth_stages.xlsx", index=False)
