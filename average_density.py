@@ -31,4 +31,19 @@ avg_density_df.insert(0, 'field_id', field_id)
 avg_density_df.insert(0, 'variety_id', variety_id)
 avg_density_df.insert(0, 'capture_date', capture_date)
 
+minidataset_df = pd.read_csv("minidataset.csv")
+print(minidataset_df.head())
+
+avg_density_df = avg_density_df.merge(minidataset_df[["id","variety_name","area_msqr","type"]],
+    left_on="field_id",
+    right_on="id",
+    how="left"
+)
+# avg_density_df = avg_density_df.drop(columns=["variety_id_y","farm_id_y"])
+# avg_density_df = avg_density_df.rename(columns={"variety_id_x": "variety_id", "farm_id_x": "farm_id"})
+avg_density_df = avg_density_df.drop(columns=["id"])    
+
+
+
+
 avg_density_df.to_excel("average_densities.xlsx", index=False)

@@ -9,6 +9,6 @@ with open("project1.json","r") as f:
 df=pd.json_normalize(data)
 #exporting to excel
 df.to_excel("project1_data.xlsx", index=False)
-avg_density_df.to_excel("average_densities.xlsx", index=False)
 
-df.to_excel("minidataset.csv", index=False)
+
+
