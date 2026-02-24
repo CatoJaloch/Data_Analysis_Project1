@@ -1,0 +1,447 @@
+farm_id,farm_name,field_name,field_id,variety_id,variety_name,variety_type,image_bed_number,area_msqr,field_size_category
+14,shalimar,F19,357,41,Haas Avocado,,0,22400,medium
+14,shalimar,F12,361,41,Haas Avocado,,0,26000,medium
+14,shalimar,F3,360,41,Haas Avocado,,0,30200,medium
+14,shalimar,F10,359,41,Haas Avocado,,0,36400,medium
+14,shalimar,F15,369,41,Haas Avocado,,0,51200,medium
+14,shalimar,F16,366,41,Haas Avocado,,0,52400,medium
+14,shalimar,F123,313,41,Haas Avocado,,0,171900,large
+14,shalimar,F5,371,41,Haas Avocado,,0,51300,medium
+14,shalimar,F1920,318,41,Haas Avocado,,0,57700,medium
+14,shalimar,F10111213,319,41,Haas Avocado,,0,179800,large
+14,shalimar,F4,370,41,Haas Avocado,,0,49500,medium
+14,shalimar,F17,367,41,Haas Avocado,,0,45000,medium
+14,shalimar,F13,362,41,Haas Avocado,,0,39300,medium
+14,shalimar,F1,356,41,Haas Avocado,,0,55300,medium
+14,shalimar,F18,355,41,Haas Avocado,,0,48400,medium
+14,shalimar,F45678,316,41,Haas Avocado,,0,254200,large
+14,shalimar,F6,368,41,Haas Avocado,,0,54200,medium
+14,shalimar,F7,365,41,Haas Avocado,,0,24000,medium
+14,shalimar,F20,364,41,Haas Avocado,,0,22400,medium
+14,shalimar,F2,363,41,Haas Avocado,,0,53400,medium
+14,shalimar,F8,358,41,Haas Avocado,,0,23600,medium
+14,shalimar,F11,354,41,Haas Avocado,,0,29900,medium
+14,shalimar,F15161718,317,41,Haas Avocado,,0,233400,large
+14,shalimar,F14,312,41,Haas Avocado,,0,72300,large
+14,shalimar,F9,311,41,Haas Avocado,,0,51200,medium
+7,Timaflor,GH-8,275,33,Revival,standard,0,0,Uncategorised
+7,Timaflor,GH-3,526,134,,,0,0,Uncategorised
+17,Gorge Avocado,F9,1036,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F11,1037,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F27,1038,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F18,1039,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F26,1040,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F1,1041,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F19,1042,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F8,1043,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F10,1044,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F3,1045,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F24,1046,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F12,1047,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F13,1048,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F2,1049,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F25,1050,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F30,1051,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F20,1052,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F7,1053,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F16,1054,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F29,1055,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F17,1056,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F28,1057,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F21,1058,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F6,1059,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F31,1060,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F15,1061,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F4,1062,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F23,1063,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F5,1064,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F22,1065,287,Haas Avocado,,0,0,Uncategorised
+17,Gorge Avocado,F14,1066,287,Haas Avocado,,0,0,Uncategorised
+19,Golden Tulip Farm,GH 19 (B),752,265,,,3,2068,small
+19,Golden Tulip Farm,GH 21 (A),759,239,Sweet Sara,Spray,3,3409,small
+19,Golden Tulip Farm,GH 21 (E),763,267,,,3,147,small
+19,Golden Tulip Farm,GH 4 (B),669,210,Reflex,Spray,3,2580,small
+19,Golden Tulip Farm,GH 6 (B),676,216,,,3,1490,small
+19,Golden Tulip Farm,GH 5 (C),673,214,Hot Desire,Spray,3,1558,small
+19,Golden Tulip Farm,GH 1 (A),662,204,Sancerre,Spray,3,2703,small
+19,Golden Tulip Farm,GH 3 (B),668,210,Reflex,Spray,3,2988,small
+19,Golden Tulip Farm,GH 4 (A),670,211,Snow Flake,Spray,3,2866,small
+19,Golden Tulip Farm,GH 6 (A),675,215,,,3,1490,small
+19,Golden Tulip Farm,GH 6 (C),677,217,,,3,1490,small
+19,Golden Tulip Farm,GH 5 (A),671,212,Silver Mikado,Spray,3,2434,small
+19,Golden Tulip Farm,GH 7 (B),679,219,,,3,265,small
+19,Golden Tulip Farm,GH 7 (A),678,218,,,3,2682,small
+19,Golden Tulip Farm,GH 20 (D),758,256,,,3,2057,small
+19,Golden Tulip Farm,GH 9 (D),691,230,Julietta Apricot,Spray,3,285,small
+19,Golden Tulip Farm,GH 9 (C),690,229,Julietta Honey,Spray,3,285,small
+19,Golden Tulip Farm,GH 15 (A),720,248,Bonnieux!,Spray,3,320,small
+19,Golden Tulip Farm,GH 12 (C),874,245,Fire Works,Spray,3,800,small
+19,Golden Tulip Farm,GH 21 (B),760,245,Fire Works,Spray,3,1420,small
+19,Golden Tulip Farm,GH 13 (B),710,243,Trinity,Spray,3,725,small
+19,Golden Tulip Farm,GH 15 (E),875,247,Snowy Bubble,Spray,3,2433,small
+19,Golden Tulip Farm,GH 15 (B),721,249,Summer Rose,Spray,3,280,small
+19,Golden Tulip Farm,GH 15 (D),723,250,Tahiti,Spray,3,280,small
+19,Golden Tulip Farm,GH 18 (G),749,264,,,3,302,small
+19,Golden Tulip Farm,GH 15 (C),722,222,,,3,269,small
+19,Golden Tulip Farm,GH 22 (D),767,268,,,3,2057,small
+19,Golden Tulip Farm,GH 5 (B),672,213,Mic Mac,Spray,3,568,small
+19,Golden Tulip Farm,GH 15 (G),726,253,Julietta Chamonix,Spray,3,52,small
+19,Golden Tulip Farm,GH 15 (H),727,211,Snow Flake,Spray,3,1041,small
+19,Golden Tulip Farm,GH 22 (A),764,211,Snow Flake,Spray,3,1285,small
+19,Golden Tulip Farm,GH 16 (A),728,254,Alicia,Spray,3,1697,small
+19,Golden Tulip Farm,GH 16 (B),731,256,,,3,840,small
+19,Golden Tulip Farm,GH 16 (D),733,243,Trinity,Spray,3,1727,small
+19,Golden Tulip Farm,GH 17 (B),735,238,Bellalinda Cerise,Spray,3,1544,small
+19,Golden Tulip Farm,GH 18 (B),744,262,,,3,547,small
+19,Golden Tulip Farm,GH 15 (F),725,252,Julietta Raspberry,Spray,3,345,small
+19,Golden Tulip Farm,GH 18 (D),746,215,,,3,562,small
+19,Golden Tulip Farm,GH 18 (A),743,261,,,3,2283,small
+19,Golden Tulip Farm,GH 18 (C),745,240,,,3,1765,small
+19,Golden Tulip Farm,GH 18 (I),936,280,,,3,140,small
+19,Golden Tulip Farm,GH 18 (H),750,256,,,3,1855,small
+19,Golden Tulip Farm,GH 19 (D),754,224,,,3,2895,small
+19,Golden Tulip Farm,GH 22 (E),769,207,Salinero,Spray,0,645,small
+19,Golden Tulip Farm,GH 23 (E),776,207,Salinero,Spray,0,663,small
+19,Golden Tulip Farm,GH 23 (F),778,257,,,3,1326,small
+19,Golden Tulip Farm,GH 23 (A),772,211,Snow Flake,Spray,3,1591,small
+19,Golden Tulip Farm,GH 23 (B),773,239,Sweet Sara,Spray,3,1319,small
+19,Golden Tulip Farm,GH 23 (D),775,270,,,3,1060,small
+19,Golden Tulip Farm,GH 23 (C),774,268,,,3,530,small
+19,Golden Tulip Farm,GH 23 (G),779,261,,,3,2650,small
+19,Golden Tulip Farm,GH 22 (G),771,269,,,3,2323,small
+19,Golden Tulip Farm,GH 22 (F),770,257,,,3,1291,small
+19,Golden Tulip Farm,GH 11 (A),703,240,,,3,2266,small
+19,Golden Tulip Farm,GH 19 (A),751,211,Snow Flake,Spray,3,798,small
+19,Golden Tulip Farm,GH 11 (C),705,217,,,3,2756,small
+19,Golden Tulip Farm,GH 19 (C),753,209,Pushkin,Spray,3,2481,small
+19,Golden Tulip Farm,GH 12 (A),706,224,,,3,2838,small
+19,Golden Tulip Farm,GH 14 (C),717,245,Fire Works,Spray,3,2796,small
+19,Golden Tulip Farm,GH 9 (E),693,232,Silva Pink,Spray,3,1407,small
+19,Golden Tulip Farm,GH 9 (A),688,227,Frivolity,Spray,3,277,small
+19,Golden Tulip Farm,GH 1 (B),663,205,,,3,788,small
+19,Golden Tulip Farm,GH 10 (A),695,219,,,3,280,small
+19,Golden Tulip Farm,GH 1 (C),664,206,Pauline,Spray,3,1840,small
+19,Golden Tulip Farm,GH 2 (B),666,208,Fellini,Spray,3,230,small
+19,Golden Tulip Farm,GH 7 (C),681,221,,,3,283,small
+19,Golden Tulip Farm,GH 7 (F),684,224,,,3,1395,small
+19,Golden Tulip Farm,GH 8 (B),687,211,Snow Flake,Spray,3,3113,small
+19,Golden Tulip Farm,GH 10 (B),696,234,Precious Parasol,Spray,3,861,small
+19,Golden Tulip Farm,GH 7 (D),682,222,,,3,283,small
+19,Golden Tulip Farm,GH 7 (G),685,225,Peach Shine,Spray,3,573,small
+19,Golden Tulip Farm,GH 10 (C),697,235,Elba!,Spray,3,569,small
+19,Golden Tulip Farm,GH 2 (A),665,207,Salinero,Spray,3,4164,small
+19,Golden Tulip Farm,GH 17 (A),734,245,Fire Works,Spray,3,2842,small
+19,Golden Tulip Farm,GH 9 (B),689,228,La Mandarina,Spray,3,285,small
+19,Golden Tulip Farm,GH 7 (E),683,223,,,3,260,small
+19,Golden Tulip Farm,GH 8 (A),686,226,Julietta,Spray,3,2590,small
+19,Golden Tulip Farm,GH 3 (A),667,209,Pushkin,Spray,3,2841,small
+19,Golden Tulip Farm,GH 13 (F),716,244,,,3,233,small
+19,Golden Tulip Farm,GH 17 (E),876,218,,,3,421,small
+19,Golden Tulip Farm,GH 17 (C),736,258,,,3,573,small
+19,Golden Tulip Farm,GH 10 (E),699,237,Sundial,Spray,3,560,small
+19,Golden Tulip Farm,GH 10 (G),701,208,Fellini,Spray,3,1172,small
+19,Golden Tulip Farm,GH 13 (A),708,237,Sundial,Spray,3,1413,small
+19,Golden Tulip Farm,GH 10 (H),702,239,Sweet Sara,Spray,3,1400,small
+19,Golden Tulip Farm,GH 10 (D),698,236,Eva,Spray,3,280,small
+19,Golden Tulip Farm,GH 12 (B),707,242,Bandolero,Spray,3,2027,small
+19,Golden Tulip Farm,GH 13 (D),714,213,Mic Mac,Spray,3,439,small
+19,Golden Tulip Farm,GH 14 (A),719,247,Snowy Bubble,Spray,3,1635,small
+19,Golden Tulip Farm,GH 14 (B),718,246,Jelitah,Spray,3,1118,small
+19,Golden Tulip Farm,GH 10 (F),700,238,Bellalinda Cerise,Spray,3,243,small
+19,Golden Tulip Farm,GH 13 (C),711,242,Bandolero,Spray,3,458,small
+19,Golden Tulip Farm,GH 9 (F),694,233,Babe,Spray,3,2814,small
+19,Golden Tulip Farm,GH 13 (E),715,233,Babe,Spray,3,1742,small
+19,Golden Tulip Farm,GH 11 (B),704,241,,,3,558,small
+19,Golden Tulip Farm,GH 17 (D),738,234,Precious Parasol,Spray,3,561,small
+19,Golden Tulip Farm,GH 17 (F),740,226,Julietta,Spray,3,412,small
+19,Golden Tulip Farm,GH 18 (E),747,225,Peach Shine,Spray,3,856,small
+19,Golden Tulip Farm,GH 18 (F),748,263,,,3,281,small
+19,Golden Tulip Farm,GH 16 (C),732,257,,,3,2879,small
+19,Golden Tulip Farm,GH 20 (C),757,266,,,3,1570,small
+19,Golden Tulip Farm,GH 20 (B),756,207,Salinero,Spray,3,2404,small
+19,Golden Tulip Farm,GH 20 (A),755,238,Bellalinda Cerise,Spray,3,1245,small
+19,Golden Tulip Farm,GH 21 (D),762,209,Pushkin,Spray,3,2265,small
+19,Golden Tulip Farm,GH 21 (C),761,210,Reflex,Spray,3,1144,small
+19,Golden Tulip Farm,GH 22 (B),765,239,Sweet Sara,Spray,3,1281,small
+19,Golden Tulip Farm,GH 22 (C),766,209,Pushkin,Spray,3,515,small
+21,Kipkebe,02A,946,281,Hass Avocado,,0,0,Uncategorised
+21,Kipkebe,02B,947,281,Hass Avocado,,0,0,Uncategorised
+21,Kipkebe,02C,948,281,Hass Avocado,,0,0,Uncategorised
+21,Kipkebe,03A,949,281,Hass Avocado,,0,0,Uncategorised
+21,Kipkebe,03B,950,281,Hass Avocado,,0,0,Uncategorised
+21,Kipkebe,03C,951,281,Hass Avocado,,0,0,Uncategorised
+21,Kipkebe,03D,952,281,Hass Avocado,,0,0,Uncategorised
+21,Kipkebe,04B,954,281,Hass Avocado,,0,0,Uncategorised
+21,Kipkebe,04A,953,281,Hass Avocado,,0,0,Uncategorised
+21,Kipkebe,05,955,281,Hass Avocado,,0,0,Uncategorised
+5,Maasai Flowers,GH 29(C),449,49,,,4,717,small
+5,Maasai Flowers,GH 32(A),455,109,,,4,410,small
+5,Maasai Flowers,GH 29(A),447,98,,,3,746,small
+5,Maasai Flowers,GH (18),70,11,Snowflake,spray,3,0,Uncategorised
+5,Maasai Flowers,GH (43),83,2,Mirabel,spray,4,980,small
+5,Maasai Flowers,GH (19)A,71,7,Madam Cerise,standard,3,1440,small
+5,Maasai Flowers,GH 33(A),457,74,,,4,869,small
+5,Maasai Flowers,GH 37(B),464,116,Sweet Revival,standard,4,587,small
+5,Maasai Flowers,GH (19) B,72,1,Reflex,spray,3,1263,small
+5,Maasai Flowers,GH (25),76,27,Snow Storm,standard,3,0,Uncategorised
+5,Maasai Flowers,GH (3),79,11,Snowflake,spray,3,0,Uncategorised
+5,Maasai Flowers,GH 38(A),465,117,New Orleans,standard,4,1264,small
+5,Maasai Flowers,GH 14(D),414,74,,,3,370,small
+5,Maasai Flowers,GH (36),81,29,Odilia,spray,4,2790,small
+5,Maasai Flowers,GH (6),86,11,Snowflake,spray,3,0,Uncategorised
+5,Maasai Flowers,GH 4(B),392,55,Gissele,spray,3,1987,small
+5,Maasai Flowers,GH 30(A),450,105,,,3,1858,small
+5,Maasai Flowers,GH 30(B),451,106,Revival,standard,3,611,small
+5,Maasai Flowers,GH 34(A),461,113,,,4,759,small
+5,Maasai Flowers,GH 31(C),453,133,Uzuri,standard,3,409,small
+5,Maasai Flowers,GH 6(A),394,50,Salinero,spray,3,1366,small
+5,Maasai Flowers,GH 27(B),444,99,,,3,744,small
+5,Maasai Flowers,GH 29(B),448,103,,,3,1464,small
+5,Maasai Flowers,GH 24(B),438,84,,,3,853,small
+5,Maasai Flowers,GH 26(B),442,132,Impressionist,spray,4,689,small
+5,Maasai Flowers,GH 31(A),452,79,,,4,702,small
+5,Maasai Flowers,GH 31(B),454,108,,,4,2421,small
+5,Maasai Flowers,GH 34(C),813,116,Sweet Revival,standard,3,709,small
+5,Maasai Flowers,GH 9(A),540,62,Ariya,spray,3,834,small
+5,Maasai Flowers,GH (5) A,84,30,Camaro,standard,3,879,small
+5,Maasai Flowers,GH 25(A),439,94,,,3,1483,small
+5,Maasai Flowers,GH 25(B),440,77,,,3,871,small
+5,Maasai Flowers,GH 33(B),458,79,,,4,485,small
+5,Maasai Flowers,GH 27(A),443,98,,,3,533,small
+5,Maasai Flowers,GH 26(A),441,81,,,3,1344,small
+5,Maasai Flowers,GH 23(A),433,74,,,3,953,small
+5,Maasai Flowers,GH 23(D),436,91,,,3,1765,small
+5,Maasai Flowers,GH 3(A),388,51,Cheyenne,spray,3,1520,small
+5,Maasai Flowers,GH 3(B),389,52,,,3,519,small
+5,Maasai Flowers,GH (27),78,1,Reflex,spray,4,1559,small
+5,Maasai Flowers,GH 37(A),463,115,,,4,1760,small
+5,Maasai Flowers,GH 4(A),391,54,Belle Rose,standard,3,864,small
+5,Maasai Flowers,GH (26),77,2,Mirabel,spray,4,640,small
+5,Maasai Flowers,GH 40(B),471,122,,,3,607,small
+5,Maasai Flowers,GH 33(C),459,112,,,4,2280,small
+5,Maasai Flowers,GH 39(C),468,106,Revival,standard,4,333,small
+5,Maasai Flowers,GH 5(C),393,56,Orange Strike,standard,3,509,small
+5,Maasai Flowers,GH (37),82,27,Snow Storm,standard,4,634,small
+5,Maasai Flowers,GH 11(D),1078,286,Downtown,standard,3,638,small
+5,Maasai Flowers,GH 15(C),416,75,,,3,688,small
+5,Maasai Flowers,GH 8(B),956,56,Orange Strike,standard,3,745,small
+5,Maasai Flowers,GH 16(A),417,75,,,3,509,small
+5,Maasai Flowers,GH 16(B),418,76,,,3,827,small
+5,Maasai Flowers,GH 17(A),421,65,,,3,1872,small
+5,Maasai Flowers,GH 18(A),423,59,Snowy Blossoms,spray,3,695,small
+5,Maasai Flowers,GH 16(D),420,78,,,3,566,small
+5,Maasai Flowers,GH 17(B),422,79,,,3,1327,small
+5,Maasai Flowers,GH 21(B),429,84,,,3,1041,small
+5,Maasai Flowers,GH 21(A),428,83,,,3,946,small
+5,Maasai Flowers,GH 18(C),425,81,,,3,1511,small
+5,Maasai Flowers,GH 20(A),426,82,Chococcino,spray,3,403,small
+5,Maasai Flowers,GH 20(B),427,69,,,3,417,small
+5,Maasai Flowers,GH 16(C),419,77,,,3,577,small
+5,Maasai Flowers,GH 22(B),431,86,,,3,264,small
+5,Maasai Flowers,GH 22(A),430,85,,,3,895,small
+5,Maasai Flowers,GH (12),63,7,Madam Cerise,standard,3,603,small
+5,Maasai Flowers,GH 22(C),432,87,,,3,2058,small
+5,Maasai Flowers,GH 24(A),437,92,,,3,3537,small
+5,Maasai Flowers,GH 28(A),445,74,,,3,1427,small
+5,Maasai Flowers,GH 32(B),456,74,,,4,3292,small
+5,Maasai Flowers,GH 28(B),446,66,Azore,spray,3,1484,small
+5,Maasai Flowers,GH 39(A),467,119,,,4,2202,small
+5,Maasai Flowers,GH (25),812,2,Mirabel,spray,3,758,small
+5,Maasai Flowers,GH 13(C),412,71,Asteae,spray,3,1037,small
+5,Maasai Flowers,GH 6(C),396,58,Maitai,standard,3,786,small
+5,Maasai Flowers,GH 6(B),395,57,Silver Shadow,spray,3,911,small
+5,Maasai Flowers,GH (17),69,6,Madam Red,standard,3,596,small
+5,Maasai Flowers,GH (5) B,85,4,Julietta,spray,3,1349,small
+5,Maasai Flowers,GH 41,474,120,,,3,958,small
+5,Maasai Flowers,GH 43(B),477,128,,,4,266,small
+5,Maasai Flowers,GH 43(A),476,76,,,3,113,small
+5,Maasai Flowers,GH 18(B),424,79,,,3,579,small
+5,Maasai Flowers,GH 43(C),478,71,Asteae,spray,4,274,small
+5,Maasai Flowers,GH (35),80,6,Madam Red,standard,4,2782,small
+5,Maasai Flowers,GH 38(B),466,50,Salinero,spray,4,1769,small
+5,Maasai Flowers,GH 39(B),469,120,,,3,856,small
+5,Maasai Flowers,GH 34(B),460,63,Baby Follies,spray,4,1615,small
+5,Maasai Flowers,GH 44,479,61,Summer Rose,spray,3,1245,small
+5,Maasai Flowers,GH 40(D),473,59,Snowy Blossoms,spray,3,1014,small
+5,Maasai Flowers,GH 42,475,61,Summer Rose,spray,3,2218,small
+5,Maasai Flowers,GH 40(C),472,123,,,3,645,small
+5,Maasai Flowers,GH 40(A),470,121,,,3,969,small
+5,Maasai Flowers,GH 3(C),390,53,Lady Bombastic,spray,3,991,small
+5,Maasai Flowers,GH 45,480,108,,,3,463,small
+5,Maasai Flowers,GH 18(D),1025,285,,,0,359,small
+5,Maasai Flowers,GH 11(C),406,55,Gissele,spray,3,723,small
+5,Maasai Flowers,GH (2) A,73,11,Snowflake,spray,3,333,small
+5,Maasai Flowers,GH (9),89,11,Snowflake,spray,3,685,small
+5,Maasai Flowers,GH (11),62,11,Snowflake,spray,3,637,small
+5,Maasai Flowers,GH 2(C),387,50,Salinero,spray,3,758,small
+5,Maasai Flowers,GH 1(A),385,49,,,3,2694,small
+5,Maasai Flowers,GH 1(B),386,48,Royal Park,spray,3,1041,small
+5,Maasai Flowers,GH 7(B),398,60,Bandolero,spray,3,2158,small
+5,Maasai Flowers,GH (14) B,65,29,Odilia,spray,3,686,small
+5,Maasai Flowers,GH (7),87,4,Julietta,spray,3,727,small
+5,Maasai Flowers,GH 7(A),397,59,Snowy Blossoms,spray,3,801,small
+5,Maasai Flowers,GH (10),61,8,Gelato,spray,3,644,small
+5,Maasai Flowers,GH (14) A,64,2,Mirabel,spray,3,232,small
+5,Maasai Flowers,GH 12(C),409,68,Jumilia,standard,3,698,small
+5,Maasai Flowers,GH 11(B),405,65,,,3,165,small
+5,Maasai Flowers,GH 13(A),410,69,,,3,341,small
+5,Maasai Flowers,GH 10(A),402,63,Baby Follies,spray,3,742,small
+5,Maasai Flowers,GH 14(C),415,73,,,3,768,small
+5,Maasai Flowers,GH 12(B),408,67,Destini,spray,3,895,small
+5,Maasai Flowers,GH 11(A),404,64,Eyeliner,spray,3,583,small
+5,Maasai Flowers,GH (16),68,2,Mirabel,spray,3,424,small
+5,Maasai Flowers,GH (15) A,66,2,Mirabel,spray,3,795,small
+5,Maasai Flowers,GH (15) B,67,8,Gelato,spray,3,1265,small
+5,Maasai Flowers,GH 10(B),403,55,Gissele,spray,3,1466,small
+5,Maasai Flowers,GH 12(A),407,66,Azore,spray,3,786,small
+5,Maasai Flowers,GH 13(B),411,70,Flinders Lane,spray,3,1132,small
+5,Maasai Flowers,GH 14(A),413,72,,,3,754,small
+5,Maasai Flowers,GH 8(A),399,61,Summer Rose,spray,3,1490,small
+5,Maasai Flowers,GH (2) B,74,1,Reflex,spray,3,1067,small
+5,Maasai Flowers,GH (8),88,4,Julietta,spray,3,820,small
+5,Maasai Flowers,GH 14(D),1024,285,,,3,356,small
+4,Chui Farm,GH (2),44,16,Ever Red,standard,4,4378,small
+4,Chui Farm,GH (4),46,16,Ever Red,standard,4,8294,medium
+4,Chui Farm,GH (13),43,16,Ever Red,standard,4,4896,small
+4,Chui Farm,GH (15),51,16,Ever Red,standard,4,4733,small
+4,Chui Farm,GH (8),48,16,Ever Red,standard,4,7949,medium
+4,Chui Farm,GH (7),47,16,Ever Red,standard,4,3744,small
+4,Chui Farm,GH (18),54,16,Ever Red,standard,4,8870,medium
+4,Chui Farm,GH (25),39,16,Ever Red,standard,4,8526,medium
+4,Chui Farm,GH (32),41,16,Ever Red,standard,4,7711,medium
+4,Chui Farm,GH (19),55,16,Ever Red,standard,4,9792,medium
+4,Chui Farm,GH (3),45,16,Ever Red,standard,4,2822,small
+4,Chui Farm,GH (11),50,16,Ever Red,standard,4,3744,small
+4,Chui Farm,GH (28),42,16,Ever Red,standard,4,4116,small
+4,Chui Farm,GH (22),56,16,Ever Red,standard,4,8870,medium
+4,Chui Farm,GH (10),49,16,Ever Red,standard,4,7533,medium
+4,Chui Farm,GH (24),38,16,Ever Red,standard,4,8644,medium
+4,Chui Farm,GH (31),40,16,Ever Red,standard,4,8036,medium
+4,Chui Farm,GH (17),53,16,Ever Red,standard,4,8179,medium
+4,Chui Farm,GH (16),52,16,Ever Red,standard,4,2621,small
+2,Kariki Naivasha,A11B,221,13,Hypericum Tomato Flair,,0,1386,small
+2,Kariki Naivasha,11A_OLD,507,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,9D,217,13,Hypericum Tomato Flair,,0,1791,small
+2,Kariki Naivasha,16A,116,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A8A,240,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,14C,110,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,5D,199,13,Hypericum Tomato Flair,,0,1753,small
+2,Kariki Naivasha,J7B,257,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,11D,95,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A10A,218,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,16B,117,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,26A,167,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A14A,223,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A18B,231,13,Hypericum Tomato Flair,,0,1717,small
+2,Kariki Naivasha,11A,90,13,Hypericum Tomato Flair,,0,1260,small
+2,Kariki Naivasha,20A,149,13,Hypericum Tomato Flair,,0,2700,small
+2,Kariki Naivasha,24A,161,13,Hypericum Tomato Flair,,0,1793,small
+2,Kariki Naivasha,15D,113,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,16D,119,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,H8B,248,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,14D,111,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,9C,216,13,Hypericum Tomato Flair,,0,1717,small
+2,Kariki Naivasha,A10B,513,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A10A,514,13,Hypericum Tomato Flair,,0,1062,small
+2,Kariki Naivasha,5B,515,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A16B,807,13,Hypericum Tomato Flair,,0,1998,small
+2,Kariki Naivasha,test00,510,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,26A,536,13,Hypericum Tomato Flair,,0,1374,small
+2,Kariki Naivasha,A13B,374,13,Hypericum Tomato Flair,,0,1700,small
+2,Kariki Naivasha,5C,517,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,15C,112,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,14B,107,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,4B,537,13,Hypericum Tomato Flair,,0,1862,small
+2,Kariki Naivasha,26A,808,13,Hypericum Tomato Flair,,0,1692,small
+2,Kariki Naivasha,H8C,539,13,Hypericum Tomato Flair,,0,1886,small
+2,Kariki Naivasha,17B,124,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,16E,120,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A14B,224,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,17A,121,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,3A,191,13,Hypericum Tomato Flair,,0,1500,small
+2,Kariki Naivasha,11B,93,13,Hypericum Tomato Flair,,0,1773,small
+2,Kariki Naivasha,26A_OLD1,503,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,5D,198,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,17E,130,13,Hypericum Tomato Flair,,0,1859,small
+2,Kariki Naivasha,A18A,230,13,Hypericum Tomato Flair,,0,1390,small
+2,Kariki Naivasha,6C,207,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A1B,235,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,H8B,247,13,Hypericum Tomato Flair,,0,1886,small
+2,Kariki Naivasha,H4A,242,13,Hypericum Tomato Flair,,0,1573,small
+2,Kariki Naivasha,2C,188,13,Hypericum Tomato Flair,,0,1757,small
+2,Kariki Naivasha,J12,252,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,13A,96,13,Hypericum Tomato Flair,,0,1545,small
+2,Kariki Naivasha,17D,129,13,Hypericum Tomato Flair,,0,1505,small
+2,Kariki Naivasha,A16B,543,13,Hypericum Tomato Flair,,0,1374,small
+2,Kariki Naivasha,24B,162,13,Hypericum Tomato Flair,,0,1892,small
+2,Kariki Naivasha,19A,137,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A1A,234,13,Hypericum Tomato Flair,,0,2108,small
+2,Kariki Naivasha,13D,104,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A3A,236,13,Hypericum Tomato Flair,,0,1477,small
+2,Kariki Naivasha,A16B,228,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,1C,146,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,26B,169,13,Hypericum Tomato Flair,,0,1692,small
+2,Kariki Naivasha,11B_OLD,525,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,13B,99,13,Hypericum Tomato Flair,,0,1494,small
+2,Kariki Naivasha,27A,173,13,Hypericum Tomato Flair,,0,1693,small
+2,Kariki Naivasha,J3A,253,13,Hypericum Tomato Flair,,0,1353,small
+2,Kariki Naivasha,27B,174,13,Hypericum Tomato Flair,,0,1374,small
+2,Kariki Naivasha,6B,204,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,23B,155,13,Hypericum Tomato Flair,,0,1738,small
+2,Kariki Naivasha,17C,128,13,Hypericum Tomato Flair,,0,1592,small
+2,Kariki Naivasha,J5B,255,13,Hypericum Tomato Flair,,0,1500,small
+2,Kariki Naivasha,4B,809,13,Hypericum Tomato Flair,,0,1545,small
+2,Kariki Naivasha,A7B,239,13,Hypericum Tomato Flair,,0,1561,small
+2,Kariki Naivasha,2A,186,13,Hypericum Tomato Flair,,0,1757,small
+2,Kariki Naivasha,H8D,373,13,Hypericum Tomato Flair,,0,1300,small
+2,Kariki Naivasha,A19A,232,13,Hypericum Tomato Flair,,0,650,small
+2,Kariki Naivasha,H5B,245,13,Hypericum Tomato Flair,,0,1509,small
+2,Kariki Naivasha,MOTHER BLOCK,258,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,19B,138,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,30A,190,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,H8C,249,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,24C,163,13,Hypericum Tomato Flair,,0,1800,small
+2,Kariki Naivasha,A8B,241,13,Hypericum Tomato Flair,,0,1650,small
+2,Kariki Naivasha,H5A,244,13,Hypericum Tomato Flair,,0,1873,small
+2,Kariki Naivasha,13C,103,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,18E,136,13,Hypericum Tomato Flair,,0,1357,small
+2,Kariki Naivasha,19C,139,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,5A,194,13,Hypericum Tomato Flair,,0,1753,small
+2,Kariki Naivasha,1A,140,13,Hypericum Tomato Flair,,0,1575,small
+2,Kariki Naivasha,4A,375,13,Hypericum Tomato Flair,,0,1500,small
+2,Kariki Naivasha,3B,192,13,Hypericum Tomato Flair,,0,1500,small
+2,Kariki Naivasha,H4B,243,13,Hypericum Tomato Flair,,0,1488,small
+2,Kariki Naivasha,24D,164,13,Hypericum Tomato Flair,,0,1800,small
+2,Kariki Naivasha,J11A,250,13,Hypericum Tomato Flair,,0,1650,small
+2,Kariki Naivasha,15F,115,13,Hypericum Tomato Flair,,0,1330,small
+2,Kariki Naivasha,17F,131,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A15B,226,13,Hypericum Tomato Flair,,0,1561,small
+2,Kariki Naivasha,A13A,222,13,Hypericum Tomato Flair,,0,1500,small
+2,Kariki Naivasha,18D,135,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A16A,227,13,Hypericum Tomato Flair,,0,1998,small
+2,Kariki Naivasha,1B,143,13,Hypericum Tomato Flair,,0,1486,small
+2,Kariki Naivasha,1D,148,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,18A,132,13,Hypericum Tomato Flair,,0,1385,small
+2,Kariki Naivasha,15E,114,13,Hypericum Tomato Flair,,0,1507,small
+2,Kariki Naivasha,J3B,254,13,Hypericum Tomato Flair,,0,1363,small
+2,Kariki Naivasha,A11A,220,13,Hypericum Tomato Flair,,0,1556,small
+2,Kariki Naivasha,18C,134,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A17B,229,13,Hypericum Tomato Flair,,0,1500,small
+2,Kariki Naivasha,20B,152,13,Hypericum Tomato Flair,,0,1813,small
+2,Kariki Naivasha,A19B,233,13,Hypericum Tomato Flair,,0,650,small
+2,Kariki Naivasha,A15A,225,13,Hypericum Tomato Flair,,0,1607,small
+2,Kariki Naivasha,2B,187,13,Hypericum Tomato Flair,,0,1757,small
+2,Kariki Naivasha,A7A,238,13,Hypericum Tomato Flair,,0,1890,small
+2,Kariki Naivasha,A10B,219,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,J7A,256,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,A3B,237,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,J11B,251,13,Hypericum Tomato Flair,,0,1552,small
+2,Kariki Naivasha,18B,133,13,Hypericum Tomato Flair,,0,1385,small
+2,Kariki Naivasha,16C,118,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,23D,160,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,11C,94,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,H5D,246,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,23A,153,13,Hypericum Tomato Flair,,0,1693,small
+2,Kariki Naivasha,5C,197,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,23C,159,13,Hypericum Tomato Flair,,0,0,Uncategorised
+2,Kariki Naivasha,2D,189,13,Hypericum Tomato Flair,,0,1757,small

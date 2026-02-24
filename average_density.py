@@ -1,7 +1,7 @@
-import pandas as pd
+import pandas as pd 
 import json
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt #for plotting
 
 #json loading
 with open("project1.json", "r") as f:
@@ -21,7 +21,7 @@ avg_density = (
 avg_density_df = avg_density.to_frame().T
 
 
-field_id = df['field_id'].iloc[0]
+field_id = df['field_id'].iloc[0] #since all rows have same field_id, take the first one just
 variety_id = df_stages['variety_id'].iloc[0]
 capture_date = df['image.capture_date'].iloc[0]
 farm_id =df['image.farm_id'].iloc[0]
